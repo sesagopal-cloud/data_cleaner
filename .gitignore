@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Distribution / Build
+build/
+dist/
+*.spec
+*.exe
+
+# Data & Output
+output/
+banking.db
+*.zip
+*.log
+
+# Duplicate / Backup directory
+data_cleaner1/
+
+# VS Code
+.vscode/
